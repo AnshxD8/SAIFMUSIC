@@ -24,8 +24,8 @@ SONG_DOWNLOAD_DURATION = int(
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-# Get this value from @SAIF_DICTATOR on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6585111267"))
+# Get this value from @Ansh_xD8 on Telegram by /id
+OWNER_ID = int(getenv("OWNER_ID", ""6547222564))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SAIFDEAD/SAIFMUSIC",
+    "https://github.com/Anshxd8/SAIFMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SAIFALLBOT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SAIFHELPGC")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ANSH_XDZ")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THE_CASTLESS")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -90,18 +90,18 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://telegra.ph/file/b340115fb59ac26c7ba8e.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/d116dab334e2c9e23b390.jpg"
+    "PING_IMG_URL", "https://graph.org/file/6092c8f37a10381eca495.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/0bc8bb883ede5374da2ec.jpg"
-STATS_IMG_URL = "https://graph.org/file/37213f2c1cddc6acb564b.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/0417330255411b5a5c76b.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/572c826b1479f67952a92.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/f850c1d52d9c5c59d764f.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d7459e1594fbd5b0ebea2.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/bf67f1b3c719c95a66b64.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/cac8979fc73c25926f216.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/c898aad8de4ec026ba163.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/335abcafb3f893909e31a.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/b340115fb59ac26c7ba8e.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/a6884e7b0aa73d8dff6b9.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/79a7686e1c815829eee55.jpg"
+STREAM_IMG_URL = "https://graph.org/file/676774d342e816ff29db9.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/d6d1d34adf6ba40793865.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/2299d2bd392cd13e2f8e1.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/6936efc3e86bd972b2be9.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/bb813986cae9cbcdd1914.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/c12fcb5b1e3c4a2d77d57.jpg"
 def time_to_seconds(time):
     stringt = str(time)
     return sum(int(x) * 60**i for i, x in enumerate(reversed(stringt.split(":"))))
