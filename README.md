@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-   ✨ 🇮ɴɴᴏᴄᴇɴᴛ  🇲ᴜsɪᴄ✨
+   ✨ 🇦ηѕн  🇲ᴜsɪᴄ✨
 </h2>
 
 <p align="center">
