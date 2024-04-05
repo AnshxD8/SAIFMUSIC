@@ -24,10 +24,10 @@ def queue_markup(
         ],
          [
             InlineKeyboardButton(
-                text="♨️ ᴏᴡɴᴇʀ ♨️", url="https://t.me/SAIF_DICTATOR",
+                text=" 𝐎𝐖𝐍𝐄𝐑 👽 ", url="https://t.me/Ansh_xD8",
             ),
             InlineKeyboardButton(
-                text=" sᴜᴩᴩᴏʀᴛ ", url="https://t.me/SAIFHELPGC",
+                text=" 🇦ηѕн ☯ ", url="https://t.me/Ansh_xDz",
             ),
         ],
     ]
@@ -50,10 +50,10 @@ def queue_markup(
         ],
          [
             InlineKeyboardButton(
-                text="♨️ ᴏᴡɴᴇʀ ♨️", url="https://t.me/SAIF_DICTATOR",
+                text="𝐎𝐖𝐍𝐄𝐑 👽", url="https://t.me/Ansh_xD8",
             ),
             InlineKeyboardButton(
-                text=" ᴄʜᴀɴɴᴇʟ ", url="https://t.me/SAIFALLBOT",
+                text=" 🇦ηѕн ☯  ", url="https://t.me/Ansh_xDz",
             ),
         ],
     ]
@@ -76,7 +76,7 @@ def queue_back_markup(_, CPLAY):
            ],
              [
             InlineKeyboardButton(
-                text="♨️ ᴏᴡɴᴇʀ ♨️", url="https://t.me/SAIF_DICTATOR",
+                text="𝐎𝐖𝐍𝐄𝐑 👽", url="https://t.me/Ansh_xD8",
             ),
             InlineKeyboardButton(
                 text=" ʀᴇᴘᴏ ", url="https://telegra.ph/file/9733d82450e02472201a4.mp4",
@@ -97,10 +97,10 @@ def aq_markup(_, chat_id):
         ],
          [
             InlineKeyboardButton(
-                text="♨️ ᴏᴡɴᴇʀ ♨️", url="https://t.me/SAIF_DICTATOR",
+                text="𝐎𝐖𝐍𝐄𝐑 👽", url="https://t.me/Ansh_xD8",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ ", url="https://t.me/SAIFHELPGC",
+                text="🇦ηѕн ☯  ", url="https://t.me/Ansh_xDz",
             ),
         ],
     ]
